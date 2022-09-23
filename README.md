@@ -1,9 +1,8 @@
-# Profile Description
+# Summary
 
-Hello, I am Jokin Aizpuru.
+Hello,
 
-I am currently learning C in 42 network, I want to learn AI and lots of other programming languages.
+I am currently learning C in 42 network.
 
 If you want to ask me anything, send me an e-mail: jokinaizpuru28@gmail.com
 
-Have a great day! :)
