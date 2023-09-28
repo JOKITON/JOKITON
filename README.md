@@ -1,10 +1,8 @@
-# Summary
+# Presentation
 
-Hello,
+Good Morning, my name is Jokin,
 
-I am currently learning C in 42 network.
+I am currently learning in 42, mainly focused in C, C++, Docker, Bash, Virtualization, MultiThreading, File Descriptor handling, Child Processes...
 
-I have a lot of goals and dreams.
-
-If you want to ask me anything, send me an e-mail: jokinaizpuru28@gmail.com
+e-mail: jokinaizpuru28@gmail.com
 
