@@ -6,4 +6,4 @@ I am currently learning in 42, mainly focused in C, C++, Docker, Bash, Virtualiz
 
 e-mail: jokinaizpuru28@gmail.com
 
-in-progress portfolio: jokiton.github.io
+in-progress portfolio: https://jokiton.github.io/
