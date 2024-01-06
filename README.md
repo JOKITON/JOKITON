@@ -1,9 +1,14 @@
 # Presentation
 
-Good morning! ,
+Con mucho gusto☕
 
-I am currently learning in 42, mainly focused in C, C++, Docker, Bash, Virtualization, MultiThreading, File Descriptor handling, Child Processes...
+I am Jokin, student inside 42 Network.🙋‍♂️
 
-e-mail: jokinaizpuru28@gmail.com
 
-in-progress portfolio: https://jokiton.github.io/
+Aptitudes:
+  🧑‍💻 C, C++, Bash, ... -> Rigor, Algorimths, Object Oriented Programming, ...
+Contact:
+  📬jokinaizpuru28@gmail.com
+
+Curious:
+  📋 portfolio: https://jokiton.github.io/
