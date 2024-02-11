@@ -10,6 +10,3 @@ Aptitudes:
 
 Contact:
   📬jokinaizpuru28@gmail.com
-
-Curious:
-  📋 portfolio: https://jokiton.github.io/
