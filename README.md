@@ -1,6 +1,6 @@
 # Presentation
 
-Con mucho gusto☕
+"El éxito no es definitivo, el fracaso no es fatal: es el coraje de continuar lo que cuenta"
 
 I am Jokin, student inside 42 Network.🙋‍♂️
 
