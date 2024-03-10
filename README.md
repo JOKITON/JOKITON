@@ -1,6 +1,6 @@
 # Presentation
 
-'Trying to be Holistic'
+'Keep it simple.'
 
 I am Jokin, student inside 42 Network.🙋‍♂️
 
