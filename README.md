@@ -4,6 +4,7 @@
 
 I am Jokin, student inside 42 Network.🙋‍♂️
 
+Currently working on [ft_transcendence](https://github.com/JOKITON/ft_transcendence)💻!
 
 Aptitudes:
   🧑‍💻 C, C++, Bash, ... -> Rigor, Algorimths, Object Oriented Programming, ...
