@@ -1,16 +1,10 @@
-# Presentation
+#### __`Who am I?`__
 
-'Keep it simple.'
+I am Jokin, student inside `42 Network` 🙋‍♂️
 
-I am Jokin, student inside 42 Network.🙋‍♂️
+Currently learning [`TensorFlow`](https://github.com/JOKITON/TensorFlow) 💻!
 
-Currently working on [ft_transcendence](https://github.com/JOKITON/ft_transcendence)💻!
-
-Aptitudes:
-  🧑‍💻 C, C++, Bash, ... -> Rigor, Algorimths, Object Oriented Programming, ...
-
-Contact:
-  📬jokinaizpuru28@gmail.com
+  📬 Contact : __jokinaizpuru28@gmail.com__
 
 ![JOKITON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOKITON&show_icons=true&theme=dracula)
 
