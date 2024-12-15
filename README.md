@@ -2,7 +2,7 @@
 
 I am a student inside `42 Network` 🙋‍♂️
 
-Currently learning [`TensorFlow`](https://github.com/JOKITON/TensorFlow) 💻!
+Currently learning [`Machine Learning`](https://github.com/JOKITON/Machine_Learning) 💻!
 
   📬 Contact : __jokinaizpuru28@gmail.com__
 
