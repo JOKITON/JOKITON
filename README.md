@@ -7,7 +7,7 @@ Currently learning [`Machine Learning`](https://github.com/JOKITON/Machine_Learn
   📬 Contact : __jokinaizpuru28@gmail.com__
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,github,vscode,linux,nginx,py,postgres,django,js,vite,git&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,vscode,linux,git,github&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
